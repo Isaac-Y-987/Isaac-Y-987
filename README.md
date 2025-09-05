@@ -1,4 +1,7 @@
-## Hi there 👋
+I'm a student with a passion for mechanical engineering and computer science.
+
+See the "pinned" list below to learn more about some of my programming projects, which explore computational physics, robotics, ML/AI, plus an academic game for fun!
+
 
 <!--
 **Isaac-Y-987/Isaac-Y-987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
